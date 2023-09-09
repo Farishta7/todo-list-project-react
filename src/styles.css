@@ -55,7 +55,7 @@ body {
   background: hsla(46, 58%, 77%, 0.997);
   border-radius: 0.25em;
   padding: 0.25em 0.5em;
-  color: hsl(200, 100%, 90%);
+  color: black
 }
 
 .new-item-form input:focus {
@@ -138,3 +138,4 @@ body {
 .list li:has(input:checked) label:hover::before {
   background: hsl(200, 100%, 30%);
 }
+
